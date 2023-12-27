@@ -1,6 +1,6 @@
 Clone the Repository:
 Open your terminal and navigate to the directory where you want to clone your project. Then, run the following command:
-### https://github.com/Zaman-Haider/shopping-app-react.js.git
+### https://github.com/Zaman-Haider/Expense-Tracker.git
 
 
 Navigate to Project Directory:
