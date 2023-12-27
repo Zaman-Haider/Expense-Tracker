@@ -5,7 +5,7 @@ Open your terminal and navigate to the directory where you want to clone your pr
 
 Navigate to Project Directory:
 Change into the project directory:
-### `cd shopping-app-react.js`
+### `cd Expense-Tracker`
 
 
 Install Dependencies:
